@@ -203,7 +203,7 @@ class LINE extends LineAPI {
             }
         }
 
-        if(txt == 'halo' || txt == 'respon') {
+        jika ( txt  ==  'hiii' ||  txt  ==  'respon') {
             this._sendMessage(seq, 'this SysTeM creator is : line.me/ti/p/~fahmiadrn');
         }
 
